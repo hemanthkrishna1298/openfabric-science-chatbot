@@ -3,7 +3,7 @@ Project repository for an NLP chatbot fine-tuned on Science data from the ELI5 D
 
 This chatbot uses the pretrained LLM DialoGPT-medium by Microsoft and fine-tunes it on science data from the ELI5 dataset.
 
-The fine-tuning code is available in the fine-tuning folder, in the IPython notebook.
+The fine-tuning code is available in the folder named "fine_tuning", in an IPython notebook.
 
 # Installation
 
